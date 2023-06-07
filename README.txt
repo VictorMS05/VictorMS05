@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VictorMS05
+- 👀 I’m interested in learning new things of programming
+- 🌱 I’m currently learning C, Java and HTML
+- 💞️ I’m looking to collaborate on any project where I can helping
+- 📫 You can reach me for my email: victormtzsgo@gmail.com
